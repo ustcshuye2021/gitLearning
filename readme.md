@@ -4,6 +4,7 @@ https://www.cnblogs.com/schaepher/p/5561193.html
 
 [Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://www.liaoxuefeng.com/wiki/896043488029600)
 
+[多电脑使用同一github账号协同开发](https://blog.csdn.net/xingkong_hdc/article/details/79484518)
 
 
 在使用 git commit 提交信息之前，先设置名字和邮箱
